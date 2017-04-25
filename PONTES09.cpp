@@ -57,7 +57,7 @@ int main(void) {
   bool verticesVisitados[size];
   memset(verticesVisitados, false, sizeof(verticesVisitados[0]) * size);
 
-
+  // Dijkstra
   while (true){
     int i, n = -1;
 
