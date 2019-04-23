@@ -1,5 +1,7 @@
 # Competitive Programming
 
+Some Brazilian Spoj resolutions 
+
 |   Problem       |      Time      |      MEM      |      LANG       | LINK              |
 |-----------------|----------------|---------------|-----------------|-------------------|
 |MESA|.10|16M|CPP14|http://br.spoj.com/problems/MESA/|
